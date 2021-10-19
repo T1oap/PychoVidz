@@ -6,4 +6,11 @@ var CubeAreaLine = shape(B)
     function name(tingmpaper);
       console.log(1)
        }  
+//prictoolz
     }
+    function A();{
+       convortonly(CEO(12))
+       Priview("Launch");{
+       }    
+    }
+!null
