@@ -13,4 +13,5 @@ var CubeAreaLine = shape(B)
        Priview("Launch");{
        }    
     }
+const GCC = AIfunction(12, 90, 12)
 !null
